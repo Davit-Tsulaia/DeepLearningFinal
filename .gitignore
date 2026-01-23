@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Documentation
+*.docx
+
+# Dataset metadata
+caption_data/dataset-metadata.json
+
+# Images
+*.png
+*.jpg
+!caption_data/test/*.jpg
